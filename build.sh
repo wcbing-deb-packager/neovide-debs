@@ -9,7 +9,7 @@ PACKAGE=neovide
 REPO=neovide/neovide
 
 ARCH_LIST="amd64"
-AMD64_FILENAME=neovide-linux-x86_64.tar
+AMD64_FILENAME=neovide-linux-x86_64.tar.gz
 
 prepare() {
     mkdir -p output tmp
